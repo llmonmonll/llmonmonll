@@ -1,7 +1,7 @@
 # Hi there, I'm llmonmonll! 👋
 
 AIツールと画像生成AIを駆使して、iPhoneアプリやゲーム制作に挑戦している開発者です。
-最新のハードウェア環境（Ryzen 9 9950X3D / MacBook Air M5）を活かした開発を行っています。
+最新のハードウェア環境（Ryzen 9 9950X3D RTX5070Ti / MacBook Air M5）を活かした開発を行っています。
 
 ---
 
